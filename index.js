@@ -51,16 +51,17 @@ fs.readFile(filepath, 'utf-8', (err, data) => {
                         fs.mkdirSync(`${dirpath}/${dataDirDesigns[indexDir]}/${dateStr}/`);
                     }
 
-
-                    if (!!dataSavedCopy[name]){
+                    if (typeof dataSavedCopy[name] === 'undefined'){
                         dataSavedCopy[name] = 0;
                     } else {
                         dataSavedCopy[name] += 1;
                     }
-console.log(dataSavedCopy)
+
+                    console.log(dataSavedCopy)
+                    console.log('-----')
 
                     copyFile(`${dirpath}/${dataDirDesigns[indexDir]}/${name}`,
-                        `${dirpath}/${dataDirDesigns[indexDir]}/${dateStr}/0-${name}`, function (error) {
+                        `${dirpath}/${dataDirDesigns[indexDir]}/${dateStr}/${dataSavedCopy[name]}-${name}`, function (error) {
                         if (error) return console.error(error);
                     });
                 }
