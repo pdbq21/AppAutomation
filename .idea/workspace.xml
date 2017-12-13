@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60f87573-1012-425e-af96-c64a98f1a596" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0001_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0002_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0003_starwars_lea.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0004_starwars_enekin.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0005_starwars_imyourfather.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0006_x-men_rosomaha.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0007_lordoftherings_gandalf.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0008_starwars_lea_luk.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0009_thor.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0010_shrek.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0011_ice_age.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0012_iron_man.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0013_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0014_alice_in_wonderland.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0015_toy_story.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0016_finding_nemo.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0017_lion_king.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0018_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0019_madagascar.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0020_avatar_neytiri.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0021_despicable_me.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0022_frozen.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0023_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0024_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0025_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0026_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0027_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0028_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0029_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0030_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0031_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0032_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0033_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0034_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0035_matrix.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0036_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0037_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0038_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0039_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0040_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0041_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0042_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0043_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0044_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0045_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0046_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0047_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0048_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0049_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/A_fdgdfgfd/0050_ironman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0001_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0002_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0003_starwars_lea.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0004_starwars_enekin.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0005_starwars_imyourfather.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0006_x-men_rosomaha.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0007_lordoftherings_gandalf.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0008_starwars_lea_luk.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0009_thor.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0010_shrek.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0011_ice_age.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0012_iron_man.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0013_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0014_alice_in_wonderland.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0015_toy_story.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0016_finding_nemo.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0017_lion_king.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0018_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0019_madagascar.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0020_avatar_neytiri.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0021_despicable_me.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0022_frozen.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0023_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0024_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0025_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0026_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0027_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0028_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0029_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0030_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0031_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0032_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0033_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0034_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0035_matrix.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0036_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0037_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0038_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0039_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0040_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0041_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0042_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0043_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0044_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0045_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0046_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0047_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0048_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0049_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/L_sgfdg/0050_ironman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0001_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0002_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0003_starwars_lea.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0004_starwars_enekin.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0005_starwars_imyourfather.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0006_x-men_rosomaha.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0007_lordoftherings_gandalf.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0008_starwars_lea_luk.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0009_thor.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0010_shrek.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0011_ice_age.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0012_iron_man.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0013_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0014_alice_in_wonderland.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0015_toy_story.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0016_finding_nemo.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0017_lion_king.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0018_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0019_madagascar.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0020_avatar_neytiri.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0021_despicable_me.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0022_frozen.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0023_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0024_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0025_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0026_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0027_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0028_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0029_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0030_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0031_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0032_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0033_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0034_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0035_matrix.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0036_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0037_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0038_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0039_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0040_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0041_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0042_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0043_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0044_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0045_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0046_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0047_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0048_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0049_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/0050_ironman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0001_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0002_starwars_chewbacca.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0003_starwars_lea.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0004_starwars_enekin.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0005_starwars_imyourfather.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0006_x-men_rosomaha.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0007_lordoftherings_gandalf.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0008_starwars_lea_luk.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0009_thor.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0010_shrek.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0011_ice_age.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0012_iron_man.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0013_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0014_alice_in_wonderland.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0015_toy_story.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0016_finding_nemo.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0017_lion_king.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0018_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0019_madagascar.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0020_avatar_neytiri.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0021_despicable_me.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0022_frozen.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0023_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0024_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0025_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0026_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0027_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0028_terminator.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0029_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0030_pulp_fiction.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0031_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0032_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0033_harry_potter.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0034_avengers.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0035_matrix.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0036_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0037_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0038_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0039_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0040_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0041_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0042_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0043_starwars.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0044_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0045_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0046_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0047_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0048_batman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0049_spiderman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Designs/W_Wooden_clocks/0050_ironman.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/renderer.js" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-12 22-01/0-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-12 22-01/0-0023_spiderman_0023.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-12 22-01/1-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-12 22-01/2-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-12 22-01/3-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-13 13-18/0-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-13 13-18/0-0023_spiderman_0023.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-13 13-18/1-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-13 13-18/2-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Designs/V_Vinyl.clocks/2017-12-13 13-18/3-0001_starwars_0001_chewbacca.dxf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change beforePath="$PROJECT_DIR$/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/list.txt" afterPath="$PROJECT_DIR$/list.txt" />
+      <change beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/app/main.js" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/app/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/app/package.json" />
+      <change beforePath="$PROJECT_DIR$/renderer.js" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="renderer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/renderer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/renderer.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/main.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/renderer.js" />
+        <option value="$PROJECT_DIR$/app/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/app/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="263" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AppGenerationFolder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppGenerationFolder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppGenerationFolder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppGenerationFolder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder" />
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder\Designs\W_Wooden_clocks" />
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder\Designs\V_Vinyl.clocks" />
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder\Designs\L_sgfdg" />
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder\Designs\A_fdgdfgfd" />
+      <recent name="C:\Users\Owner\WebstormProjects\AppGenerationFolder" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" />
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/app/index.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f87573-1012-425e-af96-c64a98f1a596" name="Default" comment="" />
+      <created>1513079960870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513079960870</updated>
+      <workItem from="1513079965173" duration="557000" />
+      <workItem from="1513080566262" duration="847000" />
+      <workItem from="1513081867633" duration="169000" />
+      <workItem from="1513082076014" duration="3619000" />
+      <workItem from="1513163248120" duration="7833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13025000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18220116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35060638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Designs/V_Vinyl.clocks/001_test" />
+    <entry file="file://$PROJECT_DIR$/Designs/V_Vinyl.clocks/023_test" />
+    <entry file="file://$PROJECT_DIR$/Designs/V_Vinyl.clocks/070_test" />
+    <entry file="file://$PROJECT_DIR$/Designs/W_Wooden_clocks/124_test" />
+    <entry file="file://$PROJECT_DIR$/Designs/W_Wooden_clocks/183_test" />
+    <entry file="file://$PROJECT_DIR$/Designs/V_Vinyl.clocks/0013_batman_0013.dxf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Designs/W_Wooden_clocks/0013_batman_0013.dxf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
