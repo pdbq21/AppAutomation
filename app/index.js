@@ -71,7 +71,7 @@ exports.readList = function(callback) {
 
                         copyFile(`${dirpath}/${dataDirDesigns[indexDir]}/${name}`,
 console.log(name)
-                            `${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/${name}-${dataSavedCopy[name]}`, function (error) {
+                            `${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/${name.replace('.', `-${dataSavedCopy[name]}.`)}, function (error) {
                                 if (error) return console.error(error);
                             });
                     }
