@@ -59,11 +59,11 @@ exports.readList = function(callback) {
                         if (!fs.existsSync(`${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/`)){
                             fs.mkdirSync(`${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/`);
                         }
-
-                        if (typeof dataSavedCopy[name] === 'undefined'){
-                            dataSavedCopy[name] = 0;
+const keyCopy = `${indexDir}${name}`;
+                        if (typeof dataSavedCopy[keyCopy] === 'undefined'){
+                            dataSavedCopy[keyCopy] = 1;
                         } else {
-                            dataSavedCopy[name] += 1;
+                            dataSavedCopy[keyCopy] += 1;
                         }
 
                         console.log(dataSavedCopy)
@@ -71,7 +71,7 @@ exports.readList = function(callback) {
 
                         copyFile(`${dirpath}/${dataDirDesigns[indexDir]}/${name}`,
 console.log(name)
-                            `${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/${name.replace('.', `-${dataSavedCopy[name]}.`)}, function (error) {
+                            `${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/${name.replace('.', `-${dataSavedCopy[keyCopy]}.`)}, function (error) {
                                 if (error) return console.error(error);
                             });
                     }
