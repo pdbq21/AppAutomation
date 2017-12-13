@@ -2,8 +2,9 @@
   "name": "appgenerationfolder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,5 +12,9 @@
   "dependencies": {
     "mkdirp": "^0.5.1",
     "quickly-copy-file": "^1.0.0"
+  },
+  "devDependencies": {
+    "electron": "1.7.9",
+    "electron-packager": "^10.1.0"
   }
 }
