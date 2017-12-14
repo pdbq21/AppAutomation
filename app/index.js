@@ -3,8 +3,11 @@ const fs = require('fs');
 const copyFile = require('quickly-copy-file');
 const path = require('path');
 
+//const filepath = path.join(__dirname, '../list.txt');
 const filepath = path.join(__dirname, '../../../list.txt');
+//const dirpath = path.join(__dirname, '../Designs');
 const dirpath = path.join(__dirname, '../../../Designs');
+//const donepath = path.join(__dirname, '../done');
 const donepath = path.join(__dirname, '../../../done');
 
 exports.readList = function (callback) {
@@ -19,6 +22,8 @@ exports.readList = function (callback) {
         if (data.trim() === '') return;
 // array of lines the list
         const lines = data.trim().split('\r\n');
+
+
 
         const date = new Date();
         const minuts = date.getMinutes().toString();
@@ -39,8 +44,11 @@ exports.readList = function (callback) {
 
         console.log(lines)
 // maping
+        const allLines = lines.length;
         lines.forEach((item, index) => {
-            callback(index, lines);
+            const lineIndex = index;
+            const lineName = item;
+            let warning = '-';
             // ^\D+ /  index for search folder - 'W' 'A' ...
             const indexDir = item.match(/^\D+/g)[0].toUpperCase();
 
@@ -48,10 +56,12 @@ exports.readList = function (callback) {
 // array of files
                 const listFiles = fs.readdirSync(`${dirpath}/${dataDirDesigns[indexDir]}/`);
 
+                let isName = false;
                 listFiles.forEach((name) => {
+                   // console.log(name.match(/(\d{4})/g)[0] === `0${item.match(/(\d{3})/g)[0]}`)
                     if (name.match(/(\d{4})/g)[0] === `0${item.match(/(\d{3})/g)[0]}`) {
                         //createFolder(`${dirpath}/${dataDirDesigns[indexDir]}/${dateStr}/`);
-
+                        isName = true;
                         if (!fs.existsSync(`${donepath}_${dateStr}`)) {
                             fs.mkdirSync(`${donepath}_${dateStr}`);
                         }
@@ -66,17 +76,18 @@ exports.readList = function (callback) {
                             dataSavedCopy[keyCopy] += 1;
                         }
 
-                        console.log(dataSavedCopy);
-                        console.log('-----');
+                        //console.log(dataSavedCopy);
+                        //console.log('-----');
 
                         copyFile(`${dirpath}/${dataDirDesigns[indexDir]}/${name}`,
                             `${donepath}_${dateStr}/${dataDirDesigns[indexDir]}/${name.replace('.', `-${dataSavedCopy[keyCopy]}.`)}`, function (error) {
                             if (error) return console.error(error);
                             });
+
                     }
                 });
 
-
+                warning = (isName)? 'done' : 'not file';
                 // dataDirDesigns[indexDir]  - folder name
 //console.log(item.match(/(\d{3})/g)[0])
                 /*
@@ -88,8 +99,10 @@ exports.readList = function (callback) {
                     if (error) return console.error(error);
                     console.log('File was copied!')
                 });*/
+            } else {
+                warning = 'Not folder'
             }
-
+            callback(lineIndex, allLines, warning, lineName);
         });
     });
 };

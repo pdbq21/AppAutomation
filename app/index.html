@@ -3,10 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <title>App</title>
+    <link rel="stylesheet" href="./styles.css"/>
 </head>
 <body>
 <p>Progress: <span id="progress">--</span></p>
-<button id="start">Start</button>
+
+<div class="table_container">
+    <p id="table_title">Statistic</p>
+    <div id="table">
+        <table id="table-props">
+            <thead>
+            <tr>
+                <th>Element of list</th>
+                <th>Status</th>
+            </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</div>
+
+
+
+<button id="start" class="btn">Start</button>
 <script>
     // You can also require other files to run in this process
     require('./renderer.js')

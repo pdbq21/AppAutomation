@@ -6,8 +6,31 @@ const controlStart = document.getElementById('start');
 const controlProgress = document.getElementById('progress');
 
 controlStart.onclick = function () {
+readList((index,list, warning, name) => {controlProgress.innerHTML =`${index + 1} - ${list}`;
 
-    readList((index,list) => controlProgress.innerHTML =`${index + 1} - ${list.length}`);
-    //console.log(test)
-
+    renderTable(name, warning);
+});
+    //renderTable()
 };
+
+
+let elementTableBody = document.querySelector('#table-props>tbody');
+
+function renderTable(name, warning) {
+    const tr = document.createElement("tr");
+    // render tbody
+
+
+        const tdName = document.createElement("td");
+        const tdWarning = document.createElement("td");
+    tdName.innerHTML = name;
+    tdWarning.innerHTML = (warning === '')? 'Done': warning;
+
+
+
+
+    tr.appendChild(tdName);
+    tr.appendChild(tdWarning);
+
+    elementTableBody.insertBefore(tr, elementTableBody.lastChild);
+}
