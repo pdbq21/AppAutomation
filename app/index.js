@@ -1,5 +1,5 @@
 const fs = require('fs');
-const mkdirp = require('mkdirp');
+//const mkdirp = require('mkdirp');
 const copyFile = require('quickly-copy-file');
 const path = require('path');
 
@@ -7,7 +7,7 @@ const filepath = path.join(__dirname, '../../../list.txt');
 const dirpath = path.join(__dirname, '../../../Designs');
 const donepath = path.join(__dirname, '../../../done');
 
-exports.readList = function(callback) {
+exports.readList = function (callback) {
     console.log('start reading');
     // Read the list
     fs.readFile(filepath, 'utf-8', (err, data) => {
@@ -24,7 +24,7 @@ exports.readList = function(callback) {
         const minuts = date.getMinutes().toString();
         // yyyy-mm-dd hh-mm for folder name
         const dateStr = `${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()} ${date.getHours()}-${
-            (minuts.length === 1) ? `0${minuts}` : minuts}`;
+            (minuts.length === 1) ? `0${minuts}` : minuts}-${date.getSeconds()}`;
 
 // list designs folder [ 'V_Vinyl.clocks', 'W_Wooden_clocks' ]
         const listDirDesigns = fs.readdirSync(dirpath);
@@ -52,27 +52,26 @@ exports.readList = function(callback) {
                     if (name.match(/(\d{4})/g)[0] === `0${item.match(/(\d{3})/g)[0]}`) {
                         //createFolder(`${dirpath}/${dataDirDesigns[indexDir]}/${dateStr}/`);
 
-                        if (!fs.existsSync(donepath)){
-                            fs.mkdirSync(donepath);
+                        if (!fs.existsSync(`${donepath}_${dateStr}`)) {
+                            fs.mkdirSync(`${donepath}_${dateStr}`);
                         }
 
-                        if (!fs.existsSync(`${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/`)){
-                            fs.mkdirSync(`${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/`);
+                        if (!fs.existsSync(`${donepath}_${dateStr}/${dataDirDesigns[indexDir]}/`)) {
+                            fs.mkdirSync(`${donepath}_${dateStr}/${dataDirDesigns[indexDir]}/`);
                         }
-const keyCopy = `${indexDir}${name}`;
-                        if (typeof dataSavedCopy[keyCopy] === 'undefined'){
+                        const keyCopy = `${indexDir}${name}`;
+                        if (typeof dataSavedCopy[keyCopy] === 'undefined') {
                             dataSavedCopy[keyCopy] = 1;
                         } else {
                             dataSavedCopy[keyCopy] += 1;
                         }
 
-                        console.log(dataSavedCopy)
-                        console.log('-----')
+                        console.log(dataSavedCopy);
+                        console.log('-----');
 
                         copyFile(`${dirpath}/${dataDirDesigns[indexDir]}/${name}`,
-console.log(name)
-                            `${donepath}/${dateStr}_${dataDirDesigns[indexDir]}/${name.replace('.', `-${dataSavedCopy[keyCopy]}.`)}, function (error) {
-                                if (error) return console.error(error);
+                            `${donepath}_${dateStr}/${dataDirDesigns[indexDir]}/${name.replace('.', `-${dataSavedCopy[keyCopy]}.`)}`, function (error) {
+                            if (error) return console.error(error);
                             });
                     }
                 });
@@ -95,20 +94,20 @@ console.log(name)
     });
 };
 
-
-
+/*
 function createFolder(dir) {
     mkdirp(dir, function (err) {
         if (err) console.log(err);
     });
-}
+}*/
 
 //
+/*
 function findFileForCopy(path) {
     fs.readdir(path, (err, files) => {
         console.log(files)
     });
-}
+}*/
 
 function listFoldersInDesigns() {
 
